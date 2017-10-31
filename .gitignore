@@ -1,0 +1,6 @@
+testImages/
+TFModels/
+pre-trained/
+papers/
+demos/
+*.pyc
