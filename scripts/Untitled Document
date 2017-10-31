@@ -1,0 +1,9 @@
+For
+ Python 3
+
+sudo apt-get install python3-pip
+
+For Python
+ 2
+
+sudo apt-get install python-pip
